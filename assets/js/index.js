@@ -92,7 +92,7 @@ const reloadTable = () => {
              
       </div>
       <button id="play-button player" class="audio" onclick="playAudio('${i}')"><img
-        src="/assets/imgs/audio.svg"
+        src="./assets/imgs/audio.svg"
         alt="Girl in a jacket"
         width="20"
         height="20"
