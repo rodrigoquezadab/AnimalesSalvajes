@@ -1,5 +1,5 @@
 let animales = (() => {
-  const url = "http://127.0.0.1:8080/animales.json";
+  const url = "animales.json";
   const getData = async () => {
     const res = await fetch(url);
     const data = await res.json();
